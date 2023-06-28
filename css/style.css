@@ -56,7 +56,7 @@ hr{
   flex-direction: column;
   justify-content: center;
 
-  background: url("../images/intro.jpg") center no-repeat;
+  background: url(../images/intro.jpg) center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
