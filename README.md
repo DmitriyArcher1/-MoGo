@@ -7,6 +7,6 @@
 d.kartrajt@gmail.com
 
 ___Обновление 28.06.2023___
-1. Добавлен файл reset.css
+1. Добавлен файл reset.css, который приводит стили к стандартному виду.
 2. Файл reset.css импортирован в style.css
 3. Файл reset.css подключён к index.html
