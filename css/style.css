@@ -56,7 +56,7 @@ hr{
   flex-direction: column;
   justify-content: center;
 
-  background: url("../assets/images/Intro/intro.jpg") center no-repeat;
+  background: url("../images/intro.jpg") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -342,14 +342,14 @@ button{
 
 .section--devices{
   padding-bottom: 0;
-  background: url("../assets/images/Devices/Devices-bg.jpg") center no-repeat;
+  background: url("../images/Devices-bg.jpg") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
   margin-bottom: 66px;
 }
 
 .section--clients{
-  background: url(../assets/images/Clients/Background/1.jpg) center no-repeat;
+  background: url(../images/clientsbg-1.jpg) center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -360,7 +360,7 @@ button{
 
 .section--map{
   padding: 40px 0;
-  background: url(../assets/images/Map/1.jpg) center no-repeat;
+  background: url(../images/map-1.jpg) center no-repeat;
 }
 
 .section__header{
