@@ -5,3 +5,8 @@
 
 Мой EMAIL: 
 d.kartrajt@gmail.com
+
+___Обновление 28.06.2023___
+1. Добавлен файл reset.css
+2. Файл reset.css импортирован в style.css
+3. Файл reset.css подключён к index.html
